@@ -1,3 +1,7 @@
+__author__ = "Derek Heidtke"
+__NetID__ = "derek.heidtke"
+__GitHubID__ = "derekheidtke"
+
 import random
 
 Cardinality = 2
