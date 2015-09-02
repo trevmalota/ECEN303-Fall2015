@@ -53,13 +53,14 @@
 * Michael Snowden, mwsnowden56, [mwsnowden56](https://github.com/mwsnowden56)
 * Eloi Tarango, fabian.tarango, [fabiantarango](https://github.com/fabiantarango)
 * Weston Torti, tort115, [westort](https://github.com/westort/)
-* Clarissa Tovias, toviasc, [toviasc](https://github.com/toviasc/)
+* Clarissa Tovias, toviasc
 * Michael Walker, mgwalker95
 * Charles Wallace, chaswallace3, [chaswallace3](https://github.com/chaswallace3/)
 * Fletcher Watts, augustus1994, [augustus1994](https://github.com/augustus1994/)
 * Craig Wolf, dallascowboys10, [CraigWolf10](https://github.com/CraigWolf10)
 * Jesse Yancy, jpy234, [jesseyancy23](https://github.com/jesseyancy23)
 * Seungwon Yoon, ysw0927, [buttonsense](https://github.com/buttonsense/)
+* Trevor Malota, TrevorMalota, [trevmalota](https://github.com/trevmalota/)
 
 
 ## Teaching Assistant
