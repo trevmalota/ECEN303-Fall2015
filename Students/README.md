@@ -29,7 +29,7 @@
 * Tyler Henderson, tyler.henderson07, [thenderson37](https://github.com/thenderson37)
 * Caleb Holley, calebiam, [calebiam](https://github.com/calebiam/)
 * Benjamin Johnston, benj626, [benj626](https://github.com/benj626/)
-* Madeline Kinnaird, mrk13
+* Madeline Kinnaird, mrk13, [mkinnaird16] (http://github.com/mkinnaird16
 * Benjamin Ledesma, ledesma.benjamin, [ledesmabenjamin](https://github.com/ledesmabenjamin)
 * Jordan Lewallen, jlewallen18, [jlewallen18](https://github.com/jlewallen18/)
 * Justin Lewis, justin94lewis, [LewisWithoutClark](https://github.com/LewisWithoutClark)
