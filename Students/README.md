@@ -35,7 +35,7 @@
 * Justin Lewis, justin94lewis, [LewisWithoutClark](https://github.com/LewisWithoutClark)
 * Chu Liang, cml1012, [cml1012](https://github.com/cml1012/)
 * Trevor Malota, TrevorMalota, [trevmalota](https://github.com/trevmalota/)
-* Jonathan Moore, spirituallyinsane
+* Jonathan Moore, spirituallyinsane, [spirituallyinsane](https://github.com/spirituallyinsane/)
 * Shannon Morrissey, shannon.morrissey, [shmorrissey](https://github.com/shmorrissey)
 * Bijan Nekovei, bnn292, [bnn292](https://github.com/bnn292)
 * Katy Nix, katy.nix, [KANix94](https://github.com/KANix94)
